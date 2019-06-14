@@ -1,0 +1,2 @@
+C:\Users\shevket.ghayret\source\repos\REHC_Project\Calculator.Test\obj\Debug\Calculator.Test.csprojAssemblyReference.cache
+C:\Users\shevket.ghayret\source\repos\REHC_Project\Calculator.Test\obj\Debug\Calculator.Test.csproj.CoreCompileInputs.cache

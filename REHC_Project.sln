@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REHC_SmokeTest", "UnitTestProject1\REHC_SmokeTest.csproj", "{764BCE41-EF75-4A1C-B414-1D057DE90B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REHC_Library", "REHC_Project\REHC_Library.csproj", "{C0FD4CF0-442B-41AB-815A-C1462224B558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764BCE41-EF75-4A1C-B414-1D057DE90B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764BCE41-EF75-4A1C-B414-1D057DE90B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764BCE41-EF75-4A1C-B414-1D057DE90B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764BCE41-EF75-4A1C-B414-1D057DE90B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FD4CF0-442B-41AB-815A-C1462224B558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FD4CF0-442B-41AB-815A-C1462224B558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FD4CF0-442B-41AB-815A-C1462224B558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FD4CF0-442B-41AB-815A-C1462224B558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA536A5-D852-4FB0-BB4D-DB7F5101F194}
+	EndGlobalSection
+EndGlobal
